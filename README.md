@@ -1,1 +1,2 @@
-# automated-uniaxial-tensiometer
+#Automatic Uniaxial Tensiometer
+Aka: Test-Yo-Limit
