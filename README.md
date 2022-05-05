@@ -16,7 +16,7 @@ Explain what is contained in this repository. You don't need to state the obviou
 
 ## System Parts 
 Indicate the parts and equipment used in your system.  Provide links.
-- **Part 1:** Indicate part, cost, and link. [Example Link](https://www.google.com)
+- **Part 1:** Stepper motor & driver [Example Link](https://www.amazon.com/gp/product/B012QFRKAO/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 - **Part 2:** Arduino: $20
 - **Part 3:**
 
