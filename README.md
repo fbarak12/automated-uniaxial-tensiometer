@@ -1,5 +1,4 @@
 # Automatic Uniaxial Tensiometer
-Aka: Test-Yo-Limit
 
 Provide a short description of the following:
 1. **Repository Contents:** 
