@@ -1,12 +1,10 @@
 # Automatic Uniaxial Tensiometer
 
-Provide a short description of the following:
 1. **Repository Contents:** 
 2. **System Parts:** 
 3. **Software Dependencies:** 
 
 ## Repository Contents
-Explain what is contained in this repository. You don't need to state the obvious, but it's important to mention anything custom or unique to your project.  For example, 3D models (STL) files, etc...  This repository should contain everything needed to replicate your design. 
 - **Item 1:** Arduino IDE code. Sufficient to operate the entirety of the tensiometer
 - **Item 2:** MATLAB script for post-data processing. Automatically generates stress vs. strain curve from raw force and elongation data 
 - **Item 3:** Presentation materials as well as documentation of the entirety of the process 
@@ -20,7 +18,6 @@ Parts and equipement used in our system as well as where the items can easily be
 - **Part 5:** 20 kg Load Cell - $8 [Amazon Link](https://www.amazon.com/Weighing-Amplifier-Pressure-Portable-Electronic/dp/B09NNYFY3F/ref=sr_1_3?crid=B2ZRQ3387ERW&keywords=20+kg+load+cell&qid=1651767942&s=industrial&sprefix=20kg+load+cell%2Cindustrial%2C66&sr=1-3)
 
 ## Software Dependencies
-Indicate any libraries or special configuration options that need to be installed/configured to run your software.  Provide links.  We should be able to follow your instructions below to run your software on different machine. 
 - **Dependency 1:** AccelStepper; Arduino Library - Open source library available on Arduino IDE allowing easy control over virtually any stepper motor connected to your microcontroller 
 - **Dependency 2:** LiquidCrstal; Arduino Library - Open source library available on Arduino IDE allowing easy control over non-I2C LCD screens
 
